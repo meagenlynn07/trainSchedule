@@ -1,0 +1,47 @@
+.jumbotron{
+    background-color: #ffcccc;
+    font-family: sans-serif;
+    color: #ccfff2;
+    border: solid 2px #ff8bc7;
+    text-shadow: -1px 0 #ff8bc7, 0 1px #ff8bc7, 1px 0 #ff8bc7, 0 -1px #ff8bc7;
+    
+    
+}
+#trainTable {
+    background-color: #ffcccc;
+    opacity: 0.7;
+
+}
+.form-group {
+    background-color: #ffcccc;
+    opacity: 0.9;
+    width: 800px;
+    height: 350px;
+    border: solid 2px #ff8bc7;
+    margin: auto;
+    text-align: left;
+    font-family: sans-serif;
+    
+}
+.arrivalTime {
+    background-color: #ffcccc;
+    opacity: 0.9;
+   
+    border: solid 2px #ff8bc7;
+    margin: auto;
+    text-align: center;
+    font-family: sans-serif;
+    color: #ff8bc7;
+    text-shadow: -1px 0 #ccfff2, 0 1px #ccfff2, 1px 0 #ccfff2, 0 -1px #ccfff2;
+}
+#trainInfoBtn {
+    background-color: #ccfff2;
+    color: #ff8bc7; 
+    border: solid 2px #ff8bc7;
+    
+}
+.addTrain {
+    color: #ff8bc7;
+    text-shadow: -1px 0 #ccfff2, 0 1px #ccfff2, 1px 0 #ccfff2, 0 -1px #ccfff2;
+    text-align: center;
+}
